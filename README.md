@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there :pencil:
+<br>
+Olá Meu nome é Alexsandro da Silva, estou em Fase de Transição de Carreira como Desenvolvedor Web Front-End na área da Programação. Atualmente estou aprendendo e criando alguns projetos inicais e experimentais como novas aquisições nas tecnologias como:
+<br>
+<br>
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="hmtl-logo" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+   E iniciando o aprendizado  em JavaScript e React:
+   <br>
+   <br>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="script-logo" />
+   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 
-<!--
-**alx-8914/alx-8914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Alexsandro stats](https://github-readme-stats.vercel.app/api?username=alx-8914)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx-8914)](https://github.com/anuraghazra/github-readme-stats)
