@@ -1,5 +1,6 @@
 ### Hi there :pencil:
 <br>
+<img align="right" alt="" height="300px" src="./WhatsApp Image 2024-04-14 at 19.08.11.jpeg">
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8FF78F&center=true&vCenter=true&random=false&width=435&lines=Hello+there+I'm+Alexsandro;I+am+a+DevClub+student;And+I+am+front-end+developer!)](https://git.io/typing-svg)
