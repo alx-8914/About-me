@@ -1,4 +1,11 @@
 ### Hi there :pencil:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
 <br>
 Olá Meu nome é Alexsandro da Silva, estou em Fase de Transição de Carreira como Desenvolvedor Web Front-End na área da Programação. Atualmente estou aprendendo e criando alguns projetos inicais e experimentais como novas aquisições nas tecnologias como:
 <br>
@@ -17,9 +24,3 @@ Olá Meu nome é Alexsandro da Silva, estou em Fase de Transição de Carreira c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alx-8914)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
