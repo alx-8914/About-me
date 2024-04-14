@@ -1,4 +1,7 @@
 ### Hi there :pencil:
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Alexsandro+da+Silva;Desenvolvedor+Web+Front-End)](https://git.io/typing-svg)
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
