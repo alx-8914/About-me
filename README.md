@@ -17,6 +17,14 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="script-logo" />
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <br>
+   <br>
+   <h3 align="left">Connect with me!</h3>
+   <div>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"(https://mail.google.com)/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"(www.linkedin.com/in/alexsandro-da-silva-a3bb97165)
+   </div>
+   <br>
+   <br>
 
 [![Alexsandro stats](https://github-readme-stats.vercel.app/api?username=alx-8914)](https://github.com/anuraghazra/github-readme-stats)
 
