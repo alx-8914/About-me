@@ -20,7 +20,7 @@
    <br>
    <h3 align="left">Connect with me!</h3>
    <div>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"(https://mail.google.com)/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"(www.google.com/in/alxtronic.alex2011@gmail.com)/>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"(www.linkedin.com/in/alexsandro-da-silva-a3bb97165)
    </div>
    <br>
