@@ -14,9 +14,10 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <br>
 <h2>Instituição de Aprendizagem: <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+   
+<img align="left" alt="" height="150px" src="./dev_club_devs_logo.jpg">
    <br>
    <br>
-<img align="left" alt="" height="500px" src="./dev_club_devs_logo.jpg">
    <br>
    <br>
      <div align="center">
