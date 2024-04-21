@@ -23,7 +23,7 @@
      <div align="center">
          <h2 align="center">Connect with me!</h2>
          <img  align="center" alt="gmail-icon" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"(www.google.com/in/alxtronic.alex2011@gmail.com)/>
-         <img  align="center" alt="linkedin-icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"( <a href="https://www.linkedin.com/in/alexsandro-da-silva-a3bb97165/" target="_blank"></a>
+         <img  align="center" alt="linkedin-icon" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/alexsandro-da-silva-a3bb97165/" target="_blank"></a>
    </div>
 <br>
 <br>
