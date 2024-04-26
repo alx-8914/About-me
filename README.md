@@ -36,8 +36,8 @@
 <br>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alx-8914/alx-8914/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurLobopro/snk/output-svg-only/speed/grid-snake-fast-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurLobopro/snk/output-svg-only/speed/grid-snake-fast.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArthurLobopro/snk/output-svg-only/speed/grid-snake-fast.svg">
 </picture>
 <br>
