@@ -8,10 +8,10 @@
 <p align="left">Olá Mundo, meu nome é Alexsandro da Silva sou um Desenvolvedor Web/Front-End em ascensão na Área da Programação. Estou Desenvolvendo o meu mais novo aprimoramento em tecnologias como por exemplo ;  HTML, CSS e iniciando o JavaScript e React. Atualmente realizo trabalhos como Freelancer desenvolvendo projetos com essas tecnologias.
 <br>
 <br>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="hmtl-logo" />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="script-logo" />
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> 
+   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
    <br>
 <h2>Instituição de Aprendizagem: <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
    
